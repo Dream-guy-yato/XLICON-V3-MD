@@ -60,11 +60,11 @@ global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
 global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 //________________________________________________________________________________________________________
-global.themeemoji = process.env.GL_EMOJI || '🏮'
+global.themeemoji = process.env.GL_EMOJI || '👻'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/Dream-guy-yato/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "MAHI BABY"
 //________________________________________________________________________________________________________
